@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+main{
+    height: 100%;
+    width: 100%;
+
+}
+.nav1{
+    height: 5vh;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    color: white;
+    padding-right: 10px;
+    padding-left: 40px;
+}
+#login{
+    margin-left: 60%;
+}
+#navi{
+    margin-left: 60%;
+}
+#department{
+    display: flex;
+}
+#view_all_courses{
+    margin-left: 60%;
+}
+.card_image{
+    font-size: 100px;
+    text-align: center;
+}
+
+#name{
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: whitesmoke;
+    background-color: white;
+}
